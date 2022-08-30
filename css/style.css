@@ -87,6 +87,7 @@ Header Section Start
 
 .header .logo {
   height: 3rem;
+  font-size: 2rem;
 }
 
 .navbar-lists {
